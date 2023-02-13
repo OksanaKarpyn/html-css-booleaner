@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-general{
+    min-width: 1200px;
+
+}
+.banner {
+    height: 100px;
+    background-color: rgb(51, 136, 215);
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+
+}
+
+.logo {
+    padding: 40px 0px 10px 10px;
+}
+
+.container {
+    padding: 0 10px;
+    width: 80%;
+    margin: auto;
+}
+
+main {
+    
+   
+
+
+}
+
+.title {
+    padding-top: 20px;
+}
+
+.subtitle {
+    color: gray;
+}
+
+.main-foto {
+    padding: 0;
+}
+
+.paragrafo,
+.paragrafo2,
+.lista {
+    padding: 20px 0px 20px 0px;
+}
+
+.lista {
+    margin-left: 1em;
+}
+
+.th-bg-blue {
+    background-color: rgb(51, 136, 215);
+
+}
+
+.col-white {
+    color: #fff;
+}
+
+table {
+    border-spacing: 0;
+}
+
+.bg-lightblue {
+    background-color: rgb(134, 170, 207);
+}
+
+.col-1,
+.col-2,
+.col-3 {
+    width: 25%;
+    text-align: start;
+}
+
+.footer {
+    max-width: 300px;
+}
+
+h4 {
+    color: gray;
+}
+
+.img {
+    background-image: url(/assets/img/monitor.jpg);
+    height: 200px;
+
+}
+
+.img2 {
+    background-image: url(/assets/img/graph.jpg);
+    height: 200px;
+}
+
+.img,
+.img2 {
+    margin: 10px 0px 10px 0px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 28px;
+    padding: 10px 0px 10px 10px;
+
+}
